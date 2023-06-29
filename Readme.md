@@ -1,4 +1,4 @@
-# To Make A build of this self configured redis use command
+# Host your self managed redis instance.
 
 ```
 docker build -t <your username>/redis .
